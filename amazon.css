@@ -1,0 +1,249 @@
+*{
+        margin: 0;
+         font-family:Arial;
+         border: border-box;
+         position: static;
+         
+}
+.navbar{
+      height: 60px;   
+      background-color: #0f1111;
+      color:white;
+      display:flex;
+      align-items: center;
+      justify-content: space-evenly;
+      
+
+
+}
+.nav-logo{
+       height:50px; 
+       width: 125px;
+       
+}
+ 
+.logo{
+        background-image:url("Amazon-Emblem.jpg");
+        background-size:cover;
+        height:40px;
+        width:120px;
+        margin-top: 5px;}
+
+
+.nav-adress{
+        height: 48px;
+        width:90px;
+
+}
+ .border{
+        border: 1.5px solid transparent; 
+}
+.border:hover{
+        border: 1.5px solid white;
+        border-radius: 3px;
+}
+.address-first{
+        color: #cccccc;
+        font-size:0.85rem;
+        margin-left: 15px;
+}
+.address-sec{
+
+        font-size:1rem;
+        margin-left:3px;
+
+}
+.add-icon{
+        display:flex;
+        align-items: center;
+}
+
+.nav-search{
+        display: flex;
+        width: 620px;
+        height: 40px;
+        border-radius: 4px;
+         
+    
+       
+}
+.search-select{
+        background-color:#f3f3f3;
+        width:70px;
+        text-align: center;
+        border-top-left-radius: 4px;
+        border-bottom-left-radius: 4px;
+        border:none;
+         
+}
+.search-input{
+        width:100%;
+        font-size: 1em;
+        border:none;
+         
+}
+.search-icon{
+        width: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #febd68;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        color: #000;}
+.nav-search:hover{
+        border:2px solid orange ;
+
+
+}
+       
+
+.ind{
+        height:50px; 
+        width: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+         
+}
+.flag-logo{
+        background-image:url("download.png") ;
+        background-size:cover;
+        height: 16.2px;
+        width:21.6px;
+        margin: 2px 4px 3px 0px;
+        border-radius: 2px;
+         
+
+}
+.lang{
+          
+         
+        font-family: sans-serif;
+        font-weight: bolder; 
+        text-align: center;
+        margin-bottom:5px;
+           } 
+
+ .opp{
+        background-color: #0f1111;
+        color:white;
+        border: none;}
+
+.op{
+                background-color:#000;
+                color:white;
+                height:15px; 
+                 margin: 10px 0.5px 5px 0px ;
+                border: none;
+        
+}
+.hello{
+        font-size:12px;
+        
+}
+  
+
+.nav-sig{
+         
+        width: 131.50px;
+        height: 40px;
+        font-size: 14px;
+        margin: 0px 0px 0px 2px;
+        padding:6px 5px 5px ;
+
+}
+.nav-signinn{
+        width: 77px;
+        height: 40px;
+        font-size: 14px;
+        margin: 0px 0px 0px 2px;
+        padding:6px 5px 5px ;
+         
+
+        
+}
+
+.nav-second{
+        font-size:0.85rem;
+        font-weight:700;
+        margin-top:2px;
+
+}
+
+        
+        
+        
+  
+.hell{
+         padding-top: 5px;
+         font-size: 12px;
+         margin-top:2px;
+}
+ .nav-cart i{
+        font-size: 30px;
+
+ }
+ .nav-cart{
+        font-size: 0.85rem;
+        font-weight: 700;
+        height: 40px;
+        margin: 0px 0px 0px 2px;
+        padding:6px 5px 5px ;
+ }
+ .secrow{
+        height: 40px;
+        background-color: #222f3d;
+        display: flex;
+        color: white;
+        align-items: center;
+        display: flex;
+        justify-content: space-evenly;
+
+ }
+ .row{
+        width: 58.40px;
+        height: 20px;
+        padding:8px 9px ;
+ }
+ .sp{
+        padding: 0px 0px 0px 5px;
+        font-family: Arial;
+        font-weight: 700;
+ }
+ .for-all p{
+        display:inline-block;
+        margin-left: 20px;
+        height:25px;
+        padding:10px 3px 0px 3px;
+        font-weight: 500;      
+ }
+.for-all{
+        width:95%;
+        font-size: 0.85rem;
+         
+
+}
+.secrow i{
+        font-size:20px;
+}
+.mid-section{
+        background-image: url("New_Dec_3000x1200._CB538652056_.jpg");
+        background-size: cover;
+         
+        height:488px;
+
+}
+.shoping-part{
+        display: flex;
+        justify-content: space-evenly;
+        background-color:rgb(255, 246, 248);
+}
+
+.shop {
+        height: 400px;
+         width: 23%; 
+        border: 2px solid black;
+        justify-content: space-evenly;
+        background-color: white;
+}
